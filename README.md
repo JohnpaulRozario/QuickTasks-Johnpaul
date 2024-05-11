@@ -4,6 +4,14 @@
 ## Description
 * A Flutter Task App with ([Back4app](https://back4app.com)) as the backend demonstrating CRUD operations.
 
+## ScreenShots
+<table>
+    <tr>
+        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image1.jpg"/></td>
+        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image2.jpg"/></td>
+        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image3.jpg"/></td>
+    </tr>
+</table>
 
 ## Features
 * User management and authentication
