@@ -4,23 +4,9 @@
 ## Description
 * A Flutter Task App with ([Back4app](https://back4app.com)) as the backend demonstrating CRUD operations.
 
- 
-## Objective
- This repo will be useful to developers looking for an alternative to backend services like Firebase as they will enjoy building apps without any third party libraries when they switch to using RestFUL APIs provided by the Back4App platform.
-
-## Article
-
-## ScreenShots
-<table>
-    <tr>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image1.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image2.jpg"/></td>
-        <td><img width=300 src="https://github.com/JacksiroKe/SiroTasks/blob/main/screenshots/image3.jpg"/></td>
-    </tr>
-</table>
 
 ## Features
-* Splash screen
+* User management and authentication
 * Search tasks
 * Save tasks as well as Update tasks
 * Delete tasks.
